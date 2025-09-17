@@ -37,7 +37,12 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Glen Alpine Springs Collection, circa 1990-2010",
-  "schema:publisher": [],
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
@@ -45,5 +50,5 @@
   "schema:sdLicense": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:sdPublisher": ""
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
 }
