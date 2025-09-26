@@ -30,9 +30,9 @@
     "@id": "@base:/media/D-698_album1.pdf"
   },
   "schema:creator": "",
-  "schema:datePublished": { 
+  "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": ""
+    "@value": "circa 1900"
   },
   "schema:identifier": [
       "D-698",
