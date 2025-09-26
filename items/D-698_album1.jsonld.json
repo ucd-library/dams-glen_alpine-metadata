@@ -25,14 +25,14 @@
         "@id": "http://id.worldcat.org/fast/1109297"
      }
   ],
-  "schema:description": "",
+  "schema:description": "The photograph album, covered in red suede and decorated with the initials \"SP,\" was a gift from Josephine Foster to Susan Gilmore Pierce, owner of he Glen Alpine Springs resort. Foster inscribed the album inside cover \"Sue dear, with love, Ladye Josephine.\" \n\nThe album contains images of Glen Alpine Springs resort. Also included are photographs of Susan Gilmore Pierce and Josephine Foster, participating in climbing, fishing, and rowing activities.",
   "schema:associatedMedia": {
     "@id": "@base:/media/D-698_album1.pdf"
   },
   "schema:creator": "",
   "schema:datePublished": { 
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1900"
+    "@value": ""
   },
   "schema:identifier": [
       "D-698",
@@ -44,7 +44,7 @@
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:name": "Scrapbook",
+  "schema:name": "Susan Gilmore Pierce photograph album, circa 1900",
   "schema:publisher": "",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
